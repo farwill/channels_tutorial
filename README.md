@@ -6,3 +6,4 @@
 5. removing unnecessary files in chat app
 6. Add 'chat' in INSTALLED_APPS
 7. Add templates/chat/index.html
+8. Add chat/urls.py
