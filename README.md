@@ -7,3 +7,4 @@
 6. Add 'chat' in INSTALLED_APPS
 7. Add templates/chat/index.html
 8. Add chat/urls.py
+9. point the root URLconf at the chat.urls module
