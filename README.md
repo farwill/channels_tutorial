@@ -9,3 +9,4 @@
 8. Add chat/urls.py
 9. point the root URLconf at the chat.urls module
 10. Integrate the Channels library
+11. Add the room view
