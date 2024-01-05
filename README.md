@@ -15,3 +15,4 @@
 	1. `docker run --rm -p 6379:6379 redis:7`
 	2. `python3 -m pip install channels_redis`
 	3. Edit mysite/settings.py
+14. Edit chat/consumers.py
