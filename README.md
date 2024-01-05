@@ -11,3 +11,7 @@
 10. Integrate the Channels library
 11. Add the room view
 12. Write your first consumer
+13. Enable a channel layer
+	1. `docker run --rm -p 6379:6379 redis:7`
+	2. `python3 -m pip install channels_redis`
+	3. Edit mysite/settings.py
