@@ -16,3 +16,4 @@
 	2. `python3 -m pip install channels_redis`
 	3. Edit mysite/settings.py
 14. Edit chat/consumers.py
+15. Rewrite the consumer to be asynchronous
