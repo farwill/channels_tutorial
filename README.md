@@ -17,3 +17,6 @@
 	3. Edit mysite/settings.py
 14. Edit chat/consumers.py
 15. Rewrite the consumer to be asynchronous
+16. install selenium: `python3 -m pip install selenium`
+17. Create chat/tests.py
+18. Edit mysite/settings.py
