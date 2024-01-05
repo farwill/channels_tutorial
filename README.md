@@ -20,3 +20,4 @@
 16. install selenium: `python3 -m pip install selenium`
 17. Create chat/tests.py
 18. Edit mysite/settings.py
+19. Run test: `python3 manage.py test chat.tests`, please make sure the redis service is started before.
