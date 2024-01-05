@@ -1,3 +1,6 @@
+# Background
+Follow [Channels Tutorial](https://channels.readthedocs.io/en/latest/tutorial/index.html) to create commits. It's convenience to see what difference in every steps.
+
 # Steps
 1. install django: `python3 -m pip install django`
 2. install channels, daphne: `python3 -m pip install -U 'channels[daphne]'`
