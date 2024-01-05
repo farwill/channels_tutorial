@@ -10,3 +10,4 @@
 9. point the root URLconf at the chat.urls module
 10. Integrate the Channels library
 11. Add the room view
+12. Write your first consumer
