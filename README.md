@@ -24,3 +24,10 @@ Follow [Channels Tutorial](https://channels.readthedocs.io/en/latest/tutorial/in
 17. Create chat/tests.py
 18. Edit mysite/settings.py
 19. Run test: `python3 manage.py test chat.tests`, please make sure the redis service is started before.
+
+# websocat
+1. Download [websocat](https://github.com/vi/websocat)
+2. runworker: `python3 manage.py runworker`
+3. runserver: 'python manage.py runserver`
+4. send message: `echo '{"message": "hello"}' | ./websocat ws://127.0.0.1:8000/ws/chat/lobby/`
+5. receive message: `./websocat ws://127.0.0.1:8000/ws/chat/lobby/`
